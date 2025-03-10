@@ -26,7 +26,7 @@ demo = gr.Interface(
         gr.Textbox(label="Optional Context (e.g., 'a photograph of')"),
     ],
     outputs=gr.Textbox(label="Generated Caption"),
-    title="Image Captioning with BLIP",
+    title="Image Captioning",
     description="Generate captions for images using the BLIP model.",
 )
 

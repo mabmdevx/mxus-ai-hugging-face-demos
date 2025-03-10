@@ -26,7 +26,7 @@ demo = gr.Interface(
     fn=summarize_text,
     inputs=gr.Textbox(label="Text to summarize"),
     outputs=gr.Textbox(label="Summary"),
-    title="Text Summarization",
+    title="Text Summarizer",
     description="Enter text to generate a summary",
 )
 

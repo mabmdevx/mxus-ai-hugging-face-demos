@@ -34,7 +34,7 @@ def text_to_speech(text):
     return output_file
 
 if __name__ == "__main__":
-    st.title("Text-to-Speech Demo")
+    st.title("Text-to-Speech")
     st.write("Enter text to generate audio narration")
 
     text_input = st.text_area(label="Text to narrate")

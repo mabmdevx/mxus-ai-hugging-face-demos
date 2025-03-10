@@ -26,7 +26,7 @@ def generate_caption(image, text=""):
     return caption
 
 # Create Streamlit interface
-st.title("Image Captioning with BLIP")
+st.title("Image Captioning")
 st.write("Generate captions for images using the BLIP model.")
 
 # Upload image

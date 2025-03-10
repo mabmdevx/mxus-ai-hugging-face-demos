@@ -10,7 +10,6 @@ sudo apt-get install espeak-ng
 ```
 pip install transformers
 pip install timm
-pip install timm
 pip install inflect
 pip install phonemizer
 pip install accelerate

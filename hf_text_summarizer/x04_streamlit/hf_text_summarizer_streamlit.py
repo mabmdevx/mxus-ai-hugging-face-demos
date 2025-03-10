@@ -21,7 +21,7 @@ def summarize_text(text):
 
     return summary
 
-st.title("Text Summarization")
+st.title("Text Summarizer")
 st.write("Enter text to generate a summary")
 
 text_input = st.text_area(label="Text to summarize", height=200)

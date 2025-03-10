@@ -33,7 +33,7 @@ demo = gr.Interface(
     text_to_speech,
     gr.Textbox(label="Text to narrate"),
     gr.Audio(label="Narrated audio"),
-    title="Text-to-Speech Demo",
+    title="Text-to-Speech",
     description="Enter text to generate audio narration",
 )
 
