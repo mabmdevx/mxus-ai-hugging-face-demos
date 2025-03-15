@@ -1,0 +1,6 @@
+venv
+.venv
+x01_notebook/__pycache__
+x02_cli/__pycache__
+x03_gradio/__pycache__
+x04_streamlit/__pycache__
