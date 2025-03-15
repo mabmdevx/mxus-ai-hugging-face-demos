@@ -17,6 +17,10 @@ Tasks
 
     Summarize long pieces of text into concise summaries.
 
+4. Object Detection
+
+    Detect and identify objects in an image.
+
 
 Implementations
 ------------------
