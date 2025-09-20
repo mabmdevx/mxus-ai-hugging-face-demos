@@ -33,3 +33,9 @@ Each task is implemented in four different versions:
 3. Gradio: Web-based demos using Gradio for interactive visualization and testing.
 
 4. Streamlit: Web-based demos using Streamlit for interactive visualization and testing.
+
+
+<img class="statcounter"
+src="https://c.statcounter.com/13168256/0/abea2651/1/"
+alt="free hit counter"
+/>
